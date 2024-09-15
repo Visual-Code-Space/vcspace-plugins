@@ -1,0 +1,15 @@
+{
+  "author": "Unknown",
+  "description": "No description provided",
+  "enabled": true,
+  "name": "Hello",
+  "packageName": "com.hello",
+  "scripts": [
+    {
+      "entryPoint": "main",
+      "name": "hello.java"
+    }
+  ],
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
