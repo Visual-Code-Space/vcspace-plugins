@@ -1,0 +1,15 @@
+{
+  "author": "Vivek",
+  "description": "Simple Java Snippets",
+  "enabled": true,
+  "name": "Java Snippets",
+  "packageName": "com.itsvks.java.snippet",
+  "scripts": [
+    {
+      "entryPoint": "main",
+      "name": "java_snippets.java"
+    }
+  ],
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
